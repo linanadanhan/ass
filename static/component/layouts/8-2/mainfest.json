@@ -1,0 +1,7 @@
+{
+  "name": "8-2",
+  "title": "8-2布局器",
+  "type": "layout",
+  "description": "",
+  "params":[{"position":"0","width":"80%"},{"position":"1","width":"20%"}]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "4-6",
+  "title": "4-6布局器",
+  "type": "layout",
+  "description": "",
+  "params":[{"position":"0","width":"40%"},{"position":"1","width":"60%"}]
+}

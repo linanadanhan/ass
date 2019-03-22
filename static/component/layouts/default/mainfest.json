@@ -1,0 +1,7 @@
+{
+  "name": "default",
+  "title": "default布局器",
+  "type": "layout",
+  "description": "",
+  "params":[{"position":"0","width":"100%"}]
+}
